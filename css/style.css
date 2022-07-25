@@ -1,0 +1,25 @@
+body {
+    background-color: #395B64;
+    color: #E7F6F2;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #2C3333;
+}
+
+.card-title-c {
+    transition: 500ms all;
+    padding: 5px 15px;
+    margin: 15px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.card-title-c:hover {
+    border: 1px solid #898AA6;
+    background-color: #898AA6;
+    color: #C9BBCF!important;
+}
